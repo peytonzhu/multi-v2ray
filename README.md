@@ -65,7 +65,7 @@ V2ray/Xray多用户管理脚本，向导式管理[新增|删除|修改]传输协
 ```
 source <(curl -sL https://multi.netlify.app/v2ray.sh) --zh
 ```
-
+## debian12不能用，11可以，v2ray简单不用设置
 ## 升级命令(保留配置文件更新)
 ```
 source <(curl -sL https://multi.netlify.app/v2ray.sh) -k
